@@ -1,5 +1,5 @@
 <h1> Article in following link</h1>
-<h2>[ https://medium.com/@wijebahuwmpwdgb.20/react-native-with-typescript-9552caae0d0e ] </h2>
+<h2>[ https://medium.com/@wijebahuwmpwdgb.20 ] </h2>
 
 
 </br>
