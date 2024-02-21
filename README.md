@@ -2,5 +2,5 @@
 including example projects, components, and any other resources referenced. Dive into the world of building robust mobile applications with 
 React Native and TypeScript, and follow along with the article to enhance your understanding. Feel 
 free to explore, experiment, and contribute to make React Native development even more accessible and efficient with TypeScript.</h3>
-
+- 📝 I regularly write articles on [https://medium.com/@wijebahuwmpwdgb.20](https://medium.com/@wijebahuwmpwdgb.20)
 <img position="relative" align="right" alt="Coding" width="100%" src="https://github.com/ShanCodeWay/ShanCodeWay/blob/main/linkdean.png">
