@@ -11,3 +11,4 @@ https://github.com/ShanCodeWay/react-native-typescript-series/assets/117095106/5
 <h1>Building a React Native Camera Component Using react-native-vision-camera </h1>
 </br>
 <img src="https://github.com/ShanCodeWay/react-native-typescript-series/assets/117095106/58113358-48e9-4286-ad45-4d38e547c2af" alt="darshana wijebahu" />
+<a href="https://youtube.com/shorts/DSCR0T9-lAs" target="blank">
